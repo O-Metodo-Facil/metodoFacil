@@ -4,8 +4,8 @@ $medium-bp: 768px;
 $large-bp: 970px;
 
 //button colors
-$button-color: #ddd; 
-$button-hover: #ccd;
+$button-color: #ededed; 
+$button-hover: #dfdfdf;
 
 // text colors
 $primary-text-color: #333;
@@ -14,14 +14,15 @@ $primary-hover-color: darken($primary-text-color, 15%);
 // ======================================
 body {
     margin: 0;
-    color: $primary-text-color
+    color: $primary-text-color;
+    font-family: neue-haas-unica, sans-serif;
 }
 
 .container {
     max-width: 95%;
     @media screen and (min-width: $medium-bp)
     {
-        max-width: 80%; 
+        max-width: 800px; 
     }
     margin: auto;
 }
@@ -155,15 +156,32 @@ body {
 }
 
 .chapter-btn {
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
     background-color: $button-color;
+	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
+    border-radius:6px;
+    border:1px solid #dcdcdc;
     transition: 1s;
     color: $primary-text-color;
+    display:inline-block;
     text-decoration: none;
+	font-size:15px;
+    font-weight:bold;
+	padding:6px 24px;
+	text-shadow:0px 1px 0px #ffffff;
+    cursor:pointer;
     margin-top: 0.5em;
-		margin-bottom: 1em;
+    margin-bottom: 1em;
     padding: 0.5em;
     &:hover {
         background-color: $button-hover;
-        color: $primary-hover-color
+        color: $primary-hover-color;
+	    background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+
     }
+    &:active{
+        position:relative;
+	    top:1px;
+    }
+
 }
