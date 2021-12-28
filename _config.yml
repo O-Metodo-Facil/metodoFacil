@@ -1,0 +1,5 @@
+name: O Método Fácil
+
+collections:
+  chapters:
+    output: true
