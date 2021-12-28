@@ -7,3 +7,46 @@ body{
         font-size: 16px;
     }
 }
+
+.nav-nightmode{
+    position: fixed;
+    right: 0;
+    top: 80%;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 20px 0 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+
+    svg{
+        width: 30px;
+        fill: white;
+        top: 2.5px;
+        position: relative;
+    }
+
+    svg:last-child{
+        display: none;
+    }
+}
+
+.night{
+    background-color: white;
+    color: black;
+    svg:first-child{
+        display: none;
+    }
+    svg:last-child{
+        display: inherit;
+        fill: black;
+    }
+}
+
+.nightmode{
+    color: white;
+    background-color: #0e0e10;
+}
