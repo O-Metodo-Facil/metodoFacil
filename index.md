@@ -51,8 +51,6 @@ Dicas para a leitura:
 
 Não leia esse livro como um livro normal, é curto e você é capaz de terminar de ler em poucas horas. A maioria das pessoas obtêm benefícios ao sublinhar e tomar notas e normalmente é recomendado reler o livro algumas vezes para fixar melhor as lições. Muitas comunidades existem para o hackbook também, mas é recomendável acessar somente ao terminar o livro.
 
-urbit - ~mislyr-midnyt/easypeasy | coomer.org imageboard (novo!) | dados de acesso públicos | matrix | discord | reddit
-
 Lembrança rápida:
 NÃO PULE CAPÍTULOS
 
