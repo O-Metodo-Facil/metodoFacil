@@ -1,0 +1,24 @@
+<nav class="main-nav">
+	<div class="container">
+	<a class="toggleMainNav" href="javascript:" title="show navigation" onclick="openChapterMenu()">
+		<div id="hamburger">
+			<em class="line"></em>
+			<em class="line"></em>
+			<em class="line"></em>
+		</div>
+	</a>
+	</div>
+	<div class="homepage-container">
+		<span>
+			<a href="/">O Método Fácil</a>
+		</span>
+	</div>
+	<div id="chapter-container">
+		<h2>Capítulos</h2>
+		<ul class="chapter-list">
+		{% for chapter in site.chapters %}
+			<li class="chapter-link"><a href="{{chapter.url}}">{{chapter.title}}</a></li>
+	 	{% endfor %} 
+		</ul>
+		</div>
+</nav>

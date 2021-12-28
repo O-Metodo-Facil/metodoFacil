@@ -1,0 +1,14 @@
+---
+layout: default
+title: Capítulos
+---
+
+<h1>Capítulos do livro</h1>
+
+<ul>
+	{% for chapter in site.chapters %}
+	<li>
+		<h2><a href="{{chapter.url}}">{{chapter.title}}</a><h2>
+	</li>
+	{% endfor %}
+</ul>
