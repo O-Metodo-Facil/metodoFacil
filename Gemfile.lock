@@ -24,7 +24,7 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.15.0)
       ffi (>= 1.15.0)
-    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7)
     execjs (2.8.1)
     faraday (1.8.0)
       faraday-em_http (~> 1.0)
@@ -45,7 +45,7 @@ GEM
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
-    ffi (1.15.4-x64-mingw32)
+    ffi (1.15.4)
     font-awesome-sass (5.15.1)
       sassc (>= 1.11)
     forwardable-extended (2.6.0)
@@ -227,7 +227,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.12.5-x64-mingw32)
+    nokogiri (1.12.5-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -251,7 +251,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sassc (2.4.0-x64-mingw32)
+    sassc (2.4.0)
       ffi (~> 1.9)
     sawyer (0.8.2)
       addressable (>= 2.3.5)
@@ -267,19 +267,18 @@ GEM
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.8-x64-mingw32)
+    unf_ext (0.0.8)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.7.0)
     zeitwerk (2.5.2)
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   font-awesome-sass
   github-pages (~> 219)
-  wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH
