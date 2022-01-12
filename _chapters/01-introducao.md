@@ -7,7 +7,7 @@ title: 01. Introdução
 </div>
 # Introdução
 
-Esse hackbook lhe permitirá parar de usar pornografia imediatamente, sem dor, e permanentemente. Sem força de vontade ou qualquer sensação de estar sendo privado ou fazendo um sacrifício. Ele não lhe julgará, envergonhará, nem te irá pressionar a tomar medidas dolorosas.
+Esse hackbook lhe permitirá parar de usar pornografia imediatamente, sem dor, e permanentemente. Sem força de vontade ou qualquer sensação de estar sendo privado ou fazendo um sacrifício. Ele não lhe julgará, envergonhará, nem irá te pressionar a tomar medidas dolorosas.
 
 Na verdade, não há necessidade de cortar ou reduzir seu uso durante a leitura; fazer isso é prejudicial, na verdade.
 
