@@ -3,7 +3,7 @@ layout: chapter
 title: 14. Usuários casuais 
 ---
 <div class="pagination-selector">
-<a href="13-so-uma-olhada.html" class="chapter-btn">&larr; Capítulo anterior</a>
+<a href="13-so-uma-olhadinha.html" class="chapter-btn">&larr; Capítulo anterior</a>
 <a href="15-o-usuario-de-youtube.html" class="chapter-btn">Próximo capítulo &#8594;</a>
 </div>
 
@@ -116,6 +116,6 @@ Pais de crianças que detestam pornografia não devem ter uma falsa sensação d
 Por favor, não se torne complacente neste assunto. O fracasso das sociedades em não impedir que os adolescentes se tornem viciados em pornografia e outras drogas talvez seja a faceta mais perturbadora desse vício. Os cérebros adolescentes são significativamente mais plásticos, e é necessário educar e protegê-los. Se você não tiver certeza de onde começar, um bom recurso é o livro YourBrainonPorn para educar-se na neurociência. Mesmo se você suspeitar que seu adolescente já pode estar viciado, o livro fornece entendimento para ajudar alguém a escapar. Caso contrário, talvez recomendar este livro!
 
 <div class="pagination-selector">
-<a href="13-so-uma-olhada.html" class="chapter-btn">&larr; Capítulo anterior</a>
+<a href="13-so-uma-olhadinha.html" class="chapter-btn">&larr; Capítulo anterior</a>
 <a href="15-o-usuario-de-youtube.html" class="chapter-btn">Próximo capítulo &#8594;</a>
 </div>
