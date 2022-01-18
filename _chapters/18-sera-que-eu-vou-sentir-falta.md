@@ -20,19 +20,12 @@ Com toda a lavagem cerebral da infância, é compreensível que nós tenhamos ca
 2. A segunda razão pela qual alguns ex-usuários sentem anseios pelo uso da pornografia é porque o usuário está fazendo alguma coisa -- como proporcionar prazer a si mesmo -- e o ex-usuário não está, e então eles passam a se sentirem como se estivessem sendo privados de alguma coisa. Tenha a seguinte noção bem clara na sua cabeça: não é o não-usuário que está sendo privado, mas sim o pobre viciado que está send privado de:
 
    - Saúde
-
    - Energia
-
    - Autoconfiança
-
    - Paz de espírito
-
    - Coragem
-
    - Tranquilidade
-
    - Liberdade
-
    - Respeito por si próprio
 
    Liberte-se do hábito de invejar usuários de pornografia e comece a vê-los como as criaturas miseráveis e patéticas que eles de fato são. Eu sei, eu já fui um dos piores. É por isso que você está lendo esse livro e não aqueles que não conseguem encarar esses fatos e continuam mentindo para si mesmos.
