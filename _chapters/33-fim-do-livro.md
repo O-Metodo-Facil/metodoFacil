@@ -17,12 +17,12 @@ Se este Hackbook ajudou você, você pode ajudar fazendo as seguintes coisas:
 1. Melhore o livro.
 
 - O Método Fácil possui código aberto e escrito em *markdown*. Se você notar uma melhoria, é muito fácil de mudar e você pode encontrar um [guia sobre como fazer isso aqui]() (AINDA NÃO ELABORADO!!). 
-    - Link do repositório (**A SER ADICIONADO**). 
+    - [Link do repositório](https://github.com/O-Metodo-Facil/metodoFacil). 
     - [Link do original](https://gitlab.com/snuggy/easypeasy). 
 
 2. Revise a tradução!
 
-- É impossível expressar minha gratidão inacreditável que as pessoas estão dispostas a ajudarem na tradução deste livro e ajudar a liberar os outros. Você pode fazer isso através [do Gitlab](https://gitlab.com/snuggy/easypeasy) (no caso do original; para a tradução em português utilizamos o GitHub).
+- É impossível expressar minha gratidão inacreditável que as pessoas estão dispostas a ajudarem na tradução deste livro e ajudar a liberar os outros. Você pode fazer isso através [do Gitlab](https://gitlab.com/snuggy/easypeasy) (no caso do original; para a tradução em português utilizamos [o GitHub](https://github.com/O-Metodo-Facil/metodoFacil)).
 
 3. Espalhe a palavra.
 - Já lhe foi dito para compartilhar este livro. Eu só queria mencionar, para qualquer *zoomer* lendo isso, que algo legal que pode ser feito é discutir pornografia com sua escola e adicionar esse tema ao currículo de educação sexual. Em vez de ser um Tiktoker Fortnite Gamer Memelord de AWP na doubledoor, assistindo Youtubers, você poderia realmente fazer alguma coisa. Saia da Internet e veja como você pode mudar seu mundo para melhor. Não seja o produto de outra pessoa.
