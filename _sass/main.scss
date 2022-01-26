@@ -29,6 +29,13 @@ body {
         max-width: 800px; 
     }
     margin: auto;
+    a {
+        color: blue;
+        text-decoration: none;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
 }
 
 .wrap{
@@ -166,7 +173,6 @@ body {
     border-radius:6px;
     border:1px solid #dcdcdc;
     transition: 1s;
-    color: $primary-text-color;
     display:inline-block;
     text-decoration: none;
 	font-size:15px;
@@ -187,7 +193,9 @@ body {
         position:relative;
 	    top:1px;
     }
-
+}
+a.chapter-btn {
+    color: $primary-text-color;
 }
 
 .nav-nightmode{
