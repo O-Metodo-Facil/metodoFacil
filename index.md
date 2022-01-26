@@ -7,7 +7,7 @@ layout: default
 
 NÃO PULE CAPÍTULOS
 
-Essa é uma versão reescrita do hackbook adaptando o livro *Allen Carr’s Easy Way to Stop Smoking* para a pornografia. É também completamente de graça e de código aberto. Não sou o autor original de nenhum desses dois livros. Sou o Hackauthor².<a href="#asterisco">\*</a>
+Essa é uma versão reescrita do hackbook adaptando o livro *Allen Carr’s Easy Way to Stop Smoking* para a pornografia. É também completamente de graça e de código aberto. Não sou o autor original de nenhum desses dois livros. Sou o Hackauthor².<a class="footnote" href="#asterisco">\*</a>
 
 É efetivo, mas para que tenha sucesso é necessário que você:
 
@@ -17,7 +17,7 @@ Ao abrir um cofre você deve digitar os números na ordem correta. O vício não
 
 Pessoalmente, a versão original no Google Sites (que não foi escrita por mim) mudou minha vida. Se você é como a maioria das pessoas, acabou descobrindo a pornografia quando era bem jovem e passou a utilizá-la desde então. Até se deparar com as chocante – e ainda censuradas – pesquisas alertando sobre os riscos. Como eu, você teve sucesso em diversos períodos de abstinência de diversas durações, mas sempre teve recaídas por conta de desejos fortes e ilusórios. Sinto prazer em dizer que o método que exponho aqui funciona de forma totalmente diferente e tem sido o único método que tem funcionado.
 
-Talvez alguém tenha te indicado esse livro e você está cético. Primeiro, obrigado por pelo menos dar uma olhada nele. Isso vai ser explicado melhor depois mas, por favor, lembre-se rapidamente da primeira vez que você teve contato com a pornografia. Você esperava que voltaria a ela pelo resto da sua vida? De acordo com meus estudos informais sobre o assunto (perturbando meus amigos para lerem esse livro), o Método Fácil<a href="#duplo_asterisco">\*\*</a> eficaz tanto para o usuário casual de pornografia quanto para o usuário pesado. O livro não é longo e há grandes chances de se ter muitos ganhos com ele, e por isso eu te imploro que continue lendo.
+Talvez alguém tenha te indicado esse livro e você está cético. Primeiro, obrigado por pelo menos dar uma olhada nele. Isso vai ser explicado melhor depois mas, por favor, lembre-se rapidamente da primeira vez que você teve contato com a pornografia. Você esperava que voltaria a ela pelo resto da sua vida? De acordo com meus estudos informais sobre o assunto (perturbando meus amigos para lerem esse livro), o Método Fácil<a class="footnote" href="#duplo-asterisco">**</a> eficaz tanto para o usuário casual de pornografia quanto para o usuário pesado. O livro não é longo e há grandes chances de se ter muitos ganhos com ele, e por isso eu te imploro que continue lendo.
 
 O método descrito nesse hackbook: 
 - É instantâneo;
@@ -66,5 +66,5 @@ Hackauthor²
 
 <hr>
 
-<a id="asterisco">\*</a> O texto que se lê aqui é a tradução em português do original. O livro foi traduzido por um grupo de voluntários que se conheceu no Reddit e no Discord. Mantivemos o livro fiel ao original, mas tivemos que adaptar expressões idiomáticas e coisas do tipo, bem como ênfases em determinadas palavras e na pontuação, com o propósito de provocar o efeito provocado pelas expressões originais que perdiam o impacto ao serem traduzidas. Algumas passagens tiveram que ser reescritas com o propósito de eliminar ambiguidade, mas isso sempre foi feito de modo a manter a mesma ideia, mesmo que por meio de diferentes construções de frases. O livro é um projeto de código aberto e se você quiser você também pode ajudar a aprimorá-lo, melhorando a tradução ou até mesmo aperfeiçoando seu conteúdo. Os meios para fazer isto estão no capítulo 33, cujo título é "O fim do livro". 
-<a id="duplo-asterisco">\*\*</a>O título original do livro é "The easy way to stop watching porn", também conhecido como "the EasyPeasy method". 
+<p class="footnote"><span id="asterisco">*</span> O texto que se lê aqui é a tradução em português do original. O livro foi traduzido por um grupo de voluntários que se conheceu no Reddit e no Discord. Mantivemos o livro fiel ao original, mas tivemos que adaptar expressões idiomáticas e coisas do tipo, bem como ênfases em determinadas palavras e na pontuação, com o propósito de provocar o efeito provocado pelas expressões originais que perdiam o impacto ao serem traduzidas. Algumas passagens tiveram que ser reescritas com o propósito de eliminar ambiguidade, mas isso sempre foi feito de modo a manter a mesma ideia, mesmo que por meio de diferentes construções de frases. O livro é um projeto de código aberto e se você quiser você também pode ajudar a aprimorá-lo, melhorando a tradução ou até mesmo aperfeiçoando seu conteúdo. Os meios para fazer isto estão no capítulo 33, cujo título é "O fim do livro".</p>
+<p class="footnote"><span id="duplo-asterisco">**</span> O título original do livro é "The easy way to stop watching porn", também conhecido como "the EasyPeasy method".</p>

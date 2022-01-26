@@ -88,4 +88,4 @@ Quando tentamos bloquear nossas mentes para o lado ruim, nós nos sentimos estú
 
 <hr>
 
-*<a id="note">¹</a> No original, o autor usa a expressão "tântrico" como sinônimo de "sensorial". Tomamos a liberdade de alterar isto na tradução pois essa atribuição de equivalência pode levar a uma compreensão errônea do que seriam práticas tântricas.*
+<p class="footnote"><span id="note">¹</span> No original, o autor usa a expressão "tântrico" como sinônimo de "sensorial". Tomamos a liberdade de alterar isto na tradução pois essa atribuição de equivalência pode levar a uma compreensão errônea do que seriam práticas tântricas.</p> 
