@@ -3,6 +3,8 @@ name: O Método Fácil
 collections:
   chapters:
     output: true
+  recursos:
+    output: true
 
 sass:
   sass_dir: _sass
