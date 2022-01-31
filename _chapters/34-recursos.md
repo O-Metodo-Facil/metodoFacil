@@ -1,13 +1,20 @@
 ---
 layout: chapter
-title: 34. Recursos (em inglês) 
+title: 34. Recursos 
 ---
 
 <div class="pagination-selector">
 <a href="33-fim-do-livro.html" class="chapter-btn">&larr; Capítulo anterior</a>
 </div>
 
-# Recursos (em inglês) {-}
+# Recursos
+### Em Português
+
+[Hacknotes](/recursos/hacknotes)
+
+[AVRT](/recursos/AVRT)
+
+### Em inglês
 
 [Meditations of a Porn Addict](https://mega.nz/file/DlxiFACJ#FLglnhxnenKVIDn9JVQHI1v_ZGs1yzC3Kvc0mLf13ds) - Guillaco
 

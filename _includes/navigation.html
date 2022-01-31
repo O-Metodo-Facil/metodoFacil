@@ -21,9 +21,11 @@
 	 	{% endfor %} 
 		</ul>
 		<h2>Recursos</h2>
-		{% for item in site.recursos %}
-			<li class="chapter-link resource-padding"><a href="{{item.url}}">{{item.title}}</a></li>
-		{% endfor %}
+			<div class="resource-padding">
+			{% for item in site.recursos %}
+				<li class="chapter-link"><a href="{{item.url}}">{{item.title}}</a></li>
+			{% endfor %}
+			</div>
 		</div>
 </nav>
 
