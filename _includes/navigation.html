@@ -20,6 +20,10 @@
 			<li class="chapter-link"><a href="{{chapter.url}}">{{chapter.title}}</a></li>
 	 	{% endfor %} 
 		</ul>
+		<h2>Recursos</h2>
+		{% for item in site.recursos %}
+			<li class="chapter-link resource-padding"><a href="{{item.url}}">{{item.title}}</a></li>
+		{% endfor %}
 		</div>
 </nav>
 
