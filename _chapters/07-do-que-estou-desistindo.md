@@ -39,7 +39,7 @@ Agora você está completamente dependente da pomada. Você nunca sai de casa se
 
 Você se depara com um artigo que discute isso e descobre que não está acontecendo apenas com você, mas que muitas pessoas estão sofrendo do mesmo problema. Na verdade, a comunidade médica descobriu que a pomada não cura realmente a ferida e, em vez disso, apenas a esconde sob a superfície da pele. É a pomada que fez a ferida crescer, então tudo que você precisa fazer para se livrar da ferida é parar de usar a pomada e ela desaparecerá no devido tempo.
 
-Você continuaria usando a pomada? Seria preciso força de vontade para não usar a pomada? Se você não acreditou no artigo, pode haver alguns dias de apreensão, mas quando você percebeu que a ferida estava começando a melhorar, a necessidade ou desejo de usar a pomada desapareceria. Você se sentira miserável? Claro que não! Você teve um problema terrível que você pensou ser incurável, mas agora você encontrou a solução. Mesmo que demorasse um ano para a ferida desaparecer, a cada dia que melhorava, você pensava em como se sentiu maravilhoso. Essa é a mágica de parar de usar pornografia.
+Você continuaria usando a pomada? Seria preciso força de vontade para não usar a pomada? Se você não acreditou no artigo, pode haver alguns dias de apreensão, mas quando você percebeu que a ferida estava começando a melhorar, a necessidade ou desejo de usar a pomada desapareceria. Você se sentiria miserável? Claro que não! Você teve um problema terrível que você pensou ser incurável, mas agora você encontrou a solução. Mesmo que demorasse um ano para a ferida desaparecer, a cada dia que melhorasse, você pensaria em como se sente maravilhoso. Essa é a mágica de parar de usar pornografia.
 
 A ferida não são as dores no corpo, a ausência de luxúria normal, a excitação diminuindo, a ereção inconsistente, o tempo perdido em imagens bidimensionais, sentimentos de violação de direitos e desprezo pelas pessoas que se relacionaram contigo ou, pior ainda, o desprezo por si próprio. Isso tudo apenas acompanha a ferida. 
 
@@ -51,5 +51,5 @@ Alguns usuários estão "felizes", tornados cegos por seus "pequenos monstrinhos
 
 <div class="pagination-selector">
 <a href="06-caracteristicas-lavagem-cerebral.html" class="chapter-btn">&larr; Capítulo anterior</a>
-<a href="07-economizando-tempo.html" class="chapter-btn">Próximo capítulo &#8594;</a>
+<a href="08-economizando-tempo.html" class="chapter-btn">Próximo capítulo &#8594;</a>
 </div>
