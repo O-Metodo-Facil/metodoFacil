@@ -51,5 +51,5 @@ Alguns usuários estão "felizes", tornados cegos por seus "pequenos monstrinhos
 
 <div class="pagination-selector">
 <a href="06-caracteristicas-lavagem-cerebral.html" class="chapter-btn">&larr; Capítulo anterior</a>
-<a href="07-economizando-tempo.html" class="chapter-btn">Próximo capítulo &#8594;</a>
+<a href="08-economizando-tempo.html" class="chapter-btn">Próximo capítulo &#8594;</a>
 </div>
