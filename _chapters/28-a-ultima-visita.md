@@ -16,7 +16,7 @@ Tendo decidido o dia e o horário, você está pronto para a sua última visita 
 1. Você se sente certo de que terá sucesso?
 2. Você tem um sentimento de tristeza e desespero, ou um sentimento de excitação e entusiasmo, de que você está prestes a alcançar algo maravilhoso?
 
-Se você tem alguma dúvida, releia o livro primeiro. Lembre-se que você nunca escolheu cair na armadilha da pornografia, mas sim que a pornografia é feita para manter você escravizado por toda a vida. Para conseguir escapar disso, é necessário tomar a decisão positiva de que você prestes a parar e fazer sua última visita.
+Se você tem alguma dúvida, releia o livro primeiro. Lembre-se que você nunca escolheu cair na armadilha da pornografia, mas sim que a pornografia é feita para manter você escravizado por toda a vida. Para conseguir escapar disso, é necessário tomar a decisão positiva de que você está prestes a parar e fazer sua última visita.
 
 Lembre-se, a única razão pela qual você leu esse livro até aqui é porque você sente o desejo sincero de parar. Então tome essa decisão positiva agora: faça um voto solene de que quando você fechar a aba anônima do seu navegador, sendo fácil ou difícil, essa terá sido sua última visita. Você não visitará o harém nunca mais. Talvez você esteja preocupado por ter feito esse voto diversas outras vezes no passado e falhado em cumpri-lo, ou que você terá de lidar com algum trauma terrível. Não tenha medo, a pior coisa que pode acontecer é você falhar, então saiba que você não tem **absolutamente nada a perder** e muito, muito a ganhar.
 
@@ -24,7 +24,7 @@ Mas pare até mesmo de pensar na possibilidade de fracassar. A verdade é que n�
 
 1. Faça agora um voto solene de que irá parar e seja sincero enquanto o faz.
 2. Navegue pelas imagens e vídeos no seu site de vídeos pornográficos favorito, prestando atenção nas tentativas desesperadas dos administradores do site, atores e até mesmo amadores de amplificar a sensação de choque, novidade e superestímulo no conteúdo que eles publicam e pergunte a si mesmo onde é que está o prazer nisso.
-3. Quando você finalmente fechar o navegador, não o faça com um sentimento de "*eu tenho que nunca mais visitar um site pornográfico na minha vida*" ou "*não me é permitido visitar outro site*", mas em vez disso encare a situação com um sentimento de liberdade, como "*não é ótimo? Eu não sou mais um escravo da pornografia! Eu não preciso nunca mais mais visitar esses sites imundos".
+3. Quando você finalmente fechar o navegador, não o faça com um sentimento de "*eu tenho que nunca mais visitar um site pornográfico na minha vida*" ou "*não me é permitido visitar outro site*", mas em vez disso encare a situação com um sentimento de liberdade, como "*não é ótimo? Eu não sou mais um escravo da pornografia! Eu não preciso nunca mais visitar esses sites imundos".
 4. Esteja atento para o fato de que por alguns dias haverá um pequeno sabotador dentro de você. Você pode estar consciente do sentimento de querer mais uma sessão. O pequeno monstro já foi descrito como uma leve ânsia física por dopamina. Estritamente falando, isso é incorreto, e é importante entender o porquê. Por causa do fato de que leva até três semanas para o pequeno monstro morrer, ex-usuários acreditam que o pequeno monstro continuará sua ânsia por uma nova visita ao harém, e que então eles precisam usar da força de vontade para resistir à tentação durante esse período. Esse não é o caso. O corpo não anseia pelo prazer oriundo da pornografia. Só a mente que faz isso.
 
 Se você sentir a sensação de querer dar uma olhadinha pelos próximos dias, seu cérebro tem uma escolha simples a fazer: ele pode interpretar esse sentimento como aquilo que ele de fato é -- um sentimento vazio, inseguro, que começou com a primeira visita a um site pornô e foi perpetuada por cada visita subsequente, e dizer a si mesmo, **"não é ótimo não ser mais um usuário?"**...
@@ -37,14 +37,14 @@ Se você sentir a sensação de querer dar uma olhadinha pelos próximos dias, s
 >
 > --- Maxwell Maltz, "The New Psycho-Cybernetics", Ch. 12.
 
-O que torna o processo de largar o hábito difícil é ficar duvidando e esperando, ***então nunca duvide da sua decisão***. Você sabe que ela é a decisão correta. Se você começar a duvidar, você vai se colocar numa situação impossível de ganhar, sentindo-se terrível por desejar consumir pornografia mas não poder fazê-lo. Não importa que sistema você esteja usando, qual é o seu objetivo em parar de assistir pornografia? Nunca mais assistir? Não! Muitos ex-usuários fazem isso mas passam o resto de suas vidas se sentindo privados.
+O que torna o processo de largar o hábito difícil é ficar duvidando e esperando, ***então nunca duvide da sua decisão***. Você sabe que ela é a decisão correta. Se você começar a duvidar, você vai se colocar numa situação impossível de ganhar, sentindo-se terrível por desejar consumir pornografia mas não poder fazê-lo. Não importa que sistema você esteja usando, qual é o seu objetivo em parar de assistir pornografia? Nunca mais assistir? Não! Muitos ex-usuários fazem isso, mas passam o resto de suas vidas se sentindo privados.
 
 Qual a diferença entre usuários e não-usuários? Não-usuários não têm nenhuma necessidade, nenhum desejo de assistir pornografia. Eles não têm ânsia ou fissura, e não precisam fazer uso da força de vontade para se abster de assistir a pornografia. É isso que você está tentando alcançar e está completamente dentro das suas capacidades que você o faça. Você não tem que esperar parar de ansiar por pornografia ou esperar torna-se um não-usuário: isso já está feito no momento em que você fecha aquela última aba de pornografia no seu navegador, cortando completamente a fonte de dopamina que vem dela: **você já é um feliz e bem-sucedido não-usuário!**
 
 E você se manterá um feliz e bem-sucedido não-usuário desde que:
 
 1. Você nunca duvide da sua decisão.
-2. Você não espere tornar-se um não-usuário. Se você o fizer, você estará simplesmente esperando por algo que simplesmente não acontece, e e criará uma fobia.
+2. Você não espere tornar-se um não-usuário. Se você o fizer, você estará simplesmente esperando por algo que simplesmente não acontece, e criará uma fobia.
 3. Você não tente *não* pensar sobre pornografia, nem espere pela 'hora da revelação'. Isso apenas criaria uma fobia.
 4. Você não use substitutos.
 5. Você veja todos os usuários tais como eles são e sinta pena deles em vez de invejá-los.
@@ -55,11 +55,11 @@ Seja em dias bons ou dias ruins, não mude sua vida só porque você largou o v�
 
 ## Um Último Aviso
 
-Nenhum usuário, tendo a chance de voltar atrás para antes de terem se viciado com o conhecimento que eles têm agora, escolheria usar de novo. Dezenas de milhares que pessoas que se livram desse vício conseguem levar vidas perfeitamente felizes, para então tornarem a se viciar novamente. Eu acredito que este livro te ajudará a achar o processo de parar relativamente fácil. Mas esteja atento: usuários que acham fácil parar também acham fácil recomeçar. **Não caia nesta armadilha**.
+Nenhum usuário, tendo a chance de voltar atrás para antes de terem se viciado com o conhecimento que eles têm agora, escolheria usar de novo. Dezenas de milhares de pessoas que se livram desse vício conseguem levar vidas perfeitamente felizes, para então tornarem a se viciar novamente. Eu acredito que este livro te ajudará a achar o processo de parar relativamente fácil. Mas esteja atento: usuários que acham fácil parar também acham fácil recomeçar. **Não caia nesta armadilha**.
 
 Não importa por quanto tempo você parou ou o quão confiante você está de que você nunca mais se viciará novamente, faça disso uma regra na sua vida: não assista pornografia, não importa qual seja a razão. Resista às ilusões e sugestões na mídia, e lembre-se de que estão tentando empurrar essa imagem de "liberdade" ao trazerem a pornografia para dentro da cultura mainstream, inconscientes de que a pornografia e a masturbação compulsiva destroem relacionamentos e o sentimento de bem-estar para um grande número de homens e para algumas mulheres.
 
-Lembre-se que a primeira olhadinha ou visita não vai provocar nenhum efeito sobre você. Você não vai ter nenhum sintoma de abstinência para aliviar, e isso vai fazer com que você se sinta péssimo. O que isso fará é provocar o prazer do influxo de dopamina sobre sua mente e o seu cérebro, e uma pequena voz no fundo lá no fundo vai começar a te dizer que você quer dar mais uma olhadinha. E então você tem a chance de sentir-se péssimo por um certo período, ou recomeçar a agir de forma saudável de novo.
+Lembre-se que a primeira olhadinha ou visita não vai provocar nenhum efeito sobre você. Você não vai ter nenhum sintoma de abstinência para aliviar, e isso vai fazer com que você se sinta péssimo. O que isso fará é provocar o prazer do influxo de dopamina sobre sua mente e o seu cérebro, e uma pequena voz lá no fundo vai começar a te dizer que você quer dar mais uma olhadinha. E então você tem a chance de sentir-se péssimo por um certo período, ou recomeçar a agir de forma saudável de novo.
 
 <div class="pagination-selector">
 <a href="27-o-momento-da-revelacao.html" class="chapter-btn">&larr; Capítulo anterior</a>
