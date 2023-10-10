@@ -14,7 +14,7 @@ title: 32. As instruções
 2. Mantenha a mente aberta.
 3. Comece com um sentimento de alegria.
 4. Ignore todos os conselhos e influências que entrem em conflito com O Método Fácil.
-5. Resiste toda e qualquer promessa de soluções temporárias.
+5. Resista toda e qualquer promessa de soluções temporárias.
 6. Deixe isto claro na sua mente: a pornografia não fornece nenhum prazer genuíno ou nenhuma forma de apoio. Você não está fazendo nenhum sacrifício. Não tem nada pra se largar e não há nenhuma razão para se sentir privado de qualquer coisa.
 7. Não fique esperando para parar de assistir. Faça isso agora!
 8. Tome a decisão de nunca mais assistir de novo e nunca duvide dessa decisão.
@@ -34,7 +34,7 @@ title: 32. As instruções
 - Sempre que eu vejo outros usuários de pornografia eu me sinto mais motivado de me ver quebrando a corrente.
 - Toda essa energia acumulada está curando o meu corpo e minha mente. Então, eu posso me envolver em tarefas mais produtivas e desafiadoras em prol dos meus valores e objetivos.
 - Meu cérebro está retornando ao seu estágio de saúde original, sendo estimulado por eu *não* fazer o que eu estava fazendo anteriormente.
-- Agora toda essa força de vontade acumulada está sendo utilizada para lidar com os estresses e dificuldades do dia-a-dia.
+- Agora toda essa força de vontade acumulada está sendo utilizada para lidar com os estresses e dificuldades do dia a dia.
 - Ótimo! Eu estou livre e não sou mais um escravo!
 
 <div class="pagination-selector">
